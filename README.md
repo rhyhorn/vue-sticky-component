@@ -8,7 +8,7 @@ Component that makes element inside it sticky. It simple and SSR friendly
 npm install vue-sticky-component --save
 ```
 
-#Usage
+# Usage
 
 Simple top limitation example. Its trigger when sticky block top position on screen less than `20px`:
 ```html
