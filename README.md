@@ -1,4 +1,4 @@
-#vue-sticky-component
+# vue-sticky-component
 
 Component that makes element inside it sticky. It simple and SSR friendly
 
@@ -52,7 +52,7 @@ This one, add also bottom position limitation. In this case, block always be vis
     </sticky-component>
 </div>
 ```
-#Options
+# Options
 
 * `container` *(HTMLElement)* - must be parent DOM element. Sticky block top and bottom position will be limited corresponding this container geometry
 * `container-top-offset` *(Number)* - minimum distance between parent container top position and sticky block 
